@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", () => {
       
   
       try {
-        const response = await fetch(" https://f8e0-34-83-186-142.ngrok-free.app/chat", {
+        const response = await fetch("https://a13d-34-125-67-182.ngrok-free.app/chat", {
           method: "POST",
           headers: {
             "Content-Type": "application/json"
